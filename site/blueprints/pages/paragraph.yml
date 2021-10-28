@@ -1,0 +1,21 @@
+title: Title and paragraph
+
+fields:
+  heading: 
+    type: text
+    label: Title
+  text:
+    type: textarea
+    label: Text
+  background:
+    type: select
+    label: Background color
+  link:
+    type: text
+    label: Read more link
+  background:
+    type: select
+    label: Background color
+    options:
+      white: White
+      bone-light: Beige

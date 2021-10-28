@@ -1,0 +1,17 @@
+title: Videos
+
+fields:
+  videoreel:
+    type: structure
+    label: Videos
+    fields: 
+      video:
+        label: Video url
+        type: url
+      heading:
+        label: Title
+        type: text
+      description:
+        label: Description
+        type: textarea
+  

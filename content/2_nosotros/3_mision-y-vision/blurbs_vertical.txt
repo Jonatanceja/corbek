@@ -1,0 +1,48 @@
+Title: Misión y Vision
+
+----
+
+Blurb:
+
+- 
+  icon:
+    - mision.svg
+  heading: Misión
+  text: >
+    Proporcionar a nuestros estudiantes los
+    conocimientos lingüísticos necesarios
+    del idioma inglés que le permitan un
+    desarrollo personal, académico y
+    profesional que potencie la
+    consolidación de su interculturalidad.
+  title: Misión
+  image:
+    - mision.svg
+- 
+  icon:
+    - vision.svg
+  heading: Vision
+  text: >
+    Ser un centro líder en la enseñanza
+    del idioma inglés, comprometido con sus
+    clientes, destacando por su mejora
+    continua; convertirnos en un referente
+    de calidad a nivel nacional.
+  title: Vision
+  image:
+    - vision.svg
+- 
+  icon:
+    - 007-university.svg
+  heading: Valores
+  text: >
+    Calidez, honestidad, respeto,
+    tolerancia, innovación, constancia y
+    responsabilidad
+  title: Valores
+  image:
+    - 007-university.svg
+
+----
+
+Background: bone-light

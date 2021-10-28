@@ -1,0 +1,17 @@
+Title: Intro
+
+----
+
+Heading: Una opción fresca y diferente
+
+----
+
+Text: El conocimiento y dominio del inglés se ha convertido en una condición prácticamente indispensable para todas las esferas de nuestra vida. En el mundo existen aproximadamente 400 millones de hablantes nativos, y es comprendido y hablado por más de 1,400 millones de personas. ¿Necesitas más razones?
+
+----
+
+Background: white
+
+----
+
+Link: /nosotros

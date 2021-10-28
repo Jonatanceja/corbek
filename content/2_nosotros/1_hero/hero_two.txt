@@ -1,0 +1,35 @@
+Title: Hero
+
+----
+
+Heading: Es hora de hablar inglés con **Corbek**
+
+----
+
+Text: Preparar a nuestros clientes para los desafíos de una realidad multilingüe y multicultural con un conocimiento fundamentalmente práctico, es nuestro principal objetivo.
+
+----
+
+Button1: 
+
+----
+
+Link1: 
+
+----
+
+Button2: 
+
+----
+
+Link2: 
+
+----
+
+Photo:
+
+- student-4.png
+
+----
+
+Image: - student-4.png

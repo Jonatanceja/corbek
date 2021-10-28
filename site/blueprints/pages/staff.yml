@@ -1,0 +1,20 @@
+title: Staff
+
+
+fields:
+  staff:
+    label: Staff
+    type: structure
+    fields: 
+      name:
+        type: text
+        label: Name
+      position:
+        type: text
+        label: Position
+      description:
+        type: textarea
+        label: Description
+      photo:
+        type: files
+        label: Profile photo

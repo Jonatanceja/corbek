@@ -1,3 +1,74 @@
 title: Site
-preset: pages
-unlisted: true
+
+columns:
+  left:
+    width: 1/2
+    sections:
+      pages:
+        headline: Páginas
+        templates:
+          - home
+          - nosotros 
+          - default
+          - courses
+          - contact
+          - error
+          - blog
+          - article
+          - contact
+
+  right: 
+    width: 1/2
+    sections:
+    fields:
+      nombre:
+        type: text
+        label: Nombre de la empresa
+      telefono:
+        type: tel
+        label: Teléfono
+        icon: phone
+        width: 1/2
+      mail:
+        type: email
+        label: Correo electrónico
+        width: 1/2
+      calle:
+        type: text
+        label: Calle
+        width: 1/2
+      numero:
+        type: text
+        label: Número
+        width: 1/2
+      colonia:
+        type: text
+        label: Colonia
+        width: 1/2
+      ciudad:
+        type: text
+        label: Ciudad
+        width: 1/2
+      estado:
+        type: text
+        label: Estado
+        width: 1/2
+      codigo:
+        type: text
+        label: Código Postal
+        width: 1/2
+      redes:
+        label: Redes sociales
+        type: structure
+        fields:
+          red:
+            label: Red social
+            type: select
+            options:
+              fa-facebook-f: Facebook
+              fa-twitter: Twitter
+              fa-instagram: Instagram
+              fa-whatsapp: Whatsapp
+          enlace:
+            label: Enlace de red social
+            type: url

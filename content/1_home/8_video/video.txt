@@ -1,0 +1,25 @@
+Title: Video
+
+----
+
+Video: https://www.youtube.com/watch?v=mbyzgeee2mg
+
+----
+
+Heading: Es hora de hablar inglés
+
+----
+
+Text: Estamos muy contentos de que estés considerando **CORBEK** para tu próximo paso en la educación. Uno de nuestros principales objetivos es hacer que este proceso sea eficiente y directo para que puedas comenzar a centrarte en tus estudios lo antes posible.
+
+----
+
+Button: Ver más
+
+----
+
+Link: #
+
+----
+
+Background: white

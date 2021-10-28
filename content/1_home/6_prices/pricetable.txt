@@ -1,0 +1,53 @@
+Title: Prices
+
+----
+
+Featuredpages:
+
+- cursos/semi-intensivo
+- cursos/sabatino
+- cursos/personalizado
+
+----
+
+Background: white
+
+----
+
+Button: Ver más cursos
+
+----
+
+Link: /cursos
+
+----
+
+Table:
+
+- 
+  course: Horario
+  sechedule: |
+    Lunes a viernes
+    16:00 a 20:00 hrs.
+    
+    Sábados
+    10:00 a 14:00 hrs.
+  price: "1200"
+  button: Inscribirse
+  link: '#'
+- 
+  course: Semi intensivo
+  sechedule: |
+    Lunes a jueves
+    Sesiones 1 hr diaria
+  price: "1200"
+  button: Inscribirse
+  link: '#'
+- 
+  course: Intensivo
+  sechedule: |
+    Viernes
+    Sesiones 3 horas y talleres
+  price: "1200"
+  button: Inscribirse
+  link: '#'

@@ -1,0 +1,21 @@
+title: Galleries
+
+columns:
+  left:
+    width: 3/4
+    sections:
+      pages:
+        headline: Galerias
+        templates:
+          - photos
+
+  right: 
+    width: 1/4
+    sections:
+    fields:
+      background:
+        type: select
+        label: Background color
+        options:
+          white: White
+          bone-light: Beige

@@ -1,0 +1,24 @@
+title: Video
+
+fields:
+  video:
+    type: url
+    label: Video
+  heading:
+    type: text
+    label: Heading
+  text: 
+    type: textarea
+    label: Text
+  button: 
+    type: text
+    label: text
+  link:
+    type: text
+    label: Link
+  background:
+    type: select
+    label: Background color
+    options:
+      white: White
+      bone-light: Beige

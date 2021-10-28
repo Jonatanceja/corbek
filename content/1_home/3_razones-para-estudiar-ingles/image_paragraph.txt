@@ -1,0 +1,23 @@
+Title: Razones para estudiar inglés
+
+----
+
+Imageleft:
+
+- retrato-2.png
+
+----
+
+Heading: ¿Para que estudiar inglés?
+
+----
+
+Text: En todo el mundo, la cultura, el conocimiento, la tecnología y el comercio, han experimentado una evolución vertiginosa, y el inglés se ha convertido en la **lengua indispensable** para la comunicación en todos estos sectores. **Saber inglés es eliminar barreras.**
+
+----
+
+Background: bone-light
+
+----
+
+Image: - student-3.png

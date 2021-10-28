@@ -1,8 +1,24 @@
-title: Default Page
-preset: page
-fields:
-  text:
-    label: Text
-    type: textarea
-    size: large
+title: Page
 
+sections:
+  parts:
+    headline: Sections
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - hero_one
+      - hero_two
+      - blurbs_horizontal
+      - blurbs_vertical
+      - galleries
+      - gallery
+      - image_paragraph
+      - paragraph_image
+      - paragraph
+      - pricetable
+      - reviews
+      - staff
+      - video
+      - videos 

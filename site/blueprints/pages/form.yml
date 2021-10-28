@@ -1,0 +1,14 @@
+title: Form
+
+sections:
+  contenido:
+    type: fields
+    fields:
+      titulo:
+        label: Título
+        type: text
+      texto:
+        label: Texto
+        type: textarea
+  formulario:
+    extends: formbuilder

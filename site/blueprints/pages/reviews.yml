@@ -1,0 +1,26 @@
+title: Reviews
+
+fields:
+  heading:
+    type: text
+    label: Heading
+  background:
+    type: select
+    label: Background color
+    options:
+      white: White
+      bone-light: Beige
+  review:
+    type: structure
+    label: Review
+    fields:
+      name:
+        type: text
+        label: Name
+      opinion:
+        type: textarea
+        label: Opinion
+      photo:
+        type: files
+        label: Photo
+        max: 1

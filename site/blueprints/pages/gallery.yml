@@ -1,0 +1,7 @@
+title: Gallery
+
+fields:
+  gallery:
+    type: files
+    label: Gallery
+    layout: cards

@@ -1,0 +1,49 @@
+Title: Reviews
+
+----
+
+Heading: Lo que nuestros clientes opinan
+
+----
+
+Background: bone-light
+
+----
+
+Review:
+
+- 
+  name: Brandon Candia
+  opinion: >
+    Excelente escuela de inglés, la
+    atención y actitud de los profes de lo
+    mejor. Muy bien capacitados, clases
+    dinámicas y muy emocionantes. Lo
+    recomiendo 💯👑👌🤙
+  photo:
+    - >
+      49938098_2028145847232215_4941114154674028544_n.jpeg
+- 
+  name: Salomé Alcazar
+  opinion: >
+    Recomiendo la escuela porque los
+    maestros explican todas tus dudas, las
+    instalaciones siempre están limpias y
+    los precios son accesibles🤠
+  photo:
+    - >
+      68824650-hombre-defecto-marcador-de-posicion-de-avatar-perfil-gris-de-imagen-aislado-en-el-fondo-blanco-para-su.jpeg
+- 
+  name: Axel Medina
+  opinion: >
+    Recomiendo Corbek porque las clases son
+    divertidas además que las instalaciones
+    son muy buenas y los profes hacen que
+    las clases no sean aburridas ⭐️💫
+  photo:
+    - >
+      68824650-hombre-defecto-marcador-de-posicion-de-avatar-perfil-gris-de-imagen-aislado-en-el-fondo-blanco-para-su.jpeg
+
+----
+
+Link: 

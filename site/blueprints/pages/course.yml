@@ -1,0 +1,16 @@
+title: Curso
+
+fields:
+  schedule:
+    type: textarea
+    label: Schedule
+  description:
+    type: textarea
+    label: Course description
+  price: 
+    type: text
+    label: Price
+  link:
+    type: url
+    label: Google Classrom url
+  

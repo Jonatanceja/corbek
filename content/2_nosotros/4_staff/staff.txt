@@ -1,0 +1,39 @@
+Title: Staff
+
+----
+
+Staff:
+
+- 
+  name: Henry García
+  position: 'Asesor Academico '
+  description: ""
+  photo: [ ]
+- 
+  name: Ruth Hoyos
+  position: Asesora Academica
+  description: ""
+  photo: [ ]
+- 
+  name: 'Manuel Jiménez '
+  position: Asesor Academico
+  description: ""
+  photo: [ ]
+- 
+  name: Alejandra Gaco
+  position: Asesora Academica
+  description: ""
+  photo: [ ]
+- 
+  name: 'Fermín Ramírez '
+  position: Asesor Academico
+  description: ""
+  photo: [ ]
+
+----
+
+Description: 
+
+----
+
+Photo: 

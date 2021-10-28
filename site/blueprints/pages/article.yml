@@ -1,0 +1,27 @@
+title: Article
+
+fields:
+  author:
+    type: users
+    multiple: false
+    label: Author
+    width: 1/3  
+  published:
+    label: Published on
+    type: date
+    display: DD.MM.YYYY
+    width: 1/3
+  cover:
+    type: files
+    max: 1
+    label: Cover
+    layout: cards
+    size: large
+    width: 1/3
+  extract:
+    type: textarea
+    laber: Intro article
+    maxlength: 100
+  text:
+    type: textarea
+    label: Text

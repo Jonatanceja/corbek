@@ -1,0 +1,17 @@
+Title: Hora de hablar inglés
+
+----
+
+Heading: Es hora de hablar inglés
+
+----
+
+Text: Estamos muy contentos de que estés considerando **CORBEK** para aprender el idioma global de comunicación por excelencia. Nuestro enfoque formativo y constante desarrollo, a la par de nuestra calidez y servicio, nos han convertido en un referente confiable para la apropiación del inglés como una segunda lengua. ¿Qué esperas para comprobarlo?
+
+----
+
+Background: white
+
+----
+
+Link: /cursos

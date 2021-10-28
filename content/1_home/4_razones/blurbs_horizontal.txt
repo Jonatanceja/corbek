@@ -1,0 +1,94 @@
+Title: Razones
+
+----
+
+Blurb:
+
+- 
+  icon:
+    - 021-economics.svg
+  heading: Esencial
+  text: >
+    Habla inglés y multiplica las
+    oportunidades laborales dentro y fuera
+    de nuestro país. ¡Abre las puertas a
+    mejores empleos!
+- 
+  icon:
+    - 020-mathematics.svg
+  heading: Negocios
+  text: >
+    Con el inglés, expande y potencia tu
+    negocio. Domínalo para poder
+    comunicarte con clientes de otros
+    países a los que podrás ofrecer tus
+    productos o servicios.
+- 
+  icon:
+    - 022-cloud.svg
+  heading: Comunicación
+  text: >
+    El inglés es el lenguaje de Internet.
+    Muchas páginas web y textos
+    científicos, académicos, tecnológicos
+    e incluso de ocio y espectáculos que
+    encontramos en internet están escritos
+    en este idioma.
+- 
+  icon:
+    - 014-exam.svg
+  heading: Información
+  text: >
+    Conoce nuevas culturas, costumbres y
+    estilos de vida. Abre tu mente y aprende
+    de muchas personas que te enriquecerán
+    con su experiencia y puntos de vista,
+    dándote la oportunidad de ser un factor
+    de cambio en tu comunidad.
+- 
+  icon:
+    - 010-thesis.svg
+  heading: Aprendizaje
+  text: >
+    Conoce nuevas culturas, costumbres y
+    estilos de vida. Abre tu mente y aprende
+    de muchas personas que te enriquecerán
+    con su experiencia y puntos de vista,
+    dándote la oportunidad de ser un factor
+    de cambio en tu comunidad.
+- 
+  icon:
+    - 013-thinking.svg
+  heading: Estimulación Cerebral
+  text: >
+    Hay estudios que demuestran que estudiar
+    un idioma estimula el cerebro,
+    manteniéndolo joven por mucho más
+    tiempo.
+- 
+  icon:
+    - 009-elearning.svg
+  heading: Diversión
+  text: >
+    Canta esa canción que tanto te gusta y
+    ve series y películas en su V.O.
+    Disfruta de las voces originales de los
+    actores y no esperes a que doblen la
+    temporada de tu serie favorita para
+    poder verla. Comunícate con el mundo a
+    través de tus videojuegos en línea.
+- 
+  icon:
+    - 028-haptic.svg
+  heading: Social
+  text: >
+    Comunícate libremente en las redes
+    sociales. Al saber inglés no tendrás
+    problemas de comunicación con los
+    usuarios, asociaciones u organizaciones
+    internacionales que te sigan o a los que
+    tú sigas.
+
+----
+
+Background: bone-light

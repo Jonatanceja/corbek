@@ -1,0 +1,18 @@
+title: Price table
+
+fields:
+  featuredPages:
+    label: Cursos destacados
+    type: pages
+  background:
+    type: select
+    label: Background color
+    options:
+      white: White
+      bone-light: Beige
+  button:
+    type: text
+    label: Texto de botón
+  link:
+    type: text
+    label: Button link  

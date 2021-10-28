@@ -1,0 +1,5 @@
+Title: Galerias
+
+----
+
+Background: bone-light

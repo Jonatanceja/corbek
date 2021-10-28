@@ -1,0 +1,17 @@
+Title: Intro
+
+----
+
+Heading: ¡NOS EMOCIONA HACER LO QUE HACEMOS!
+
+----
+
+Text: Establecidos en el año **2014**, somos un Centro Formativo para la enseñanza del idioma inglés que, gracias a su enfoque educativo y su constante desarrollo, ha logrado convertirse por su calidez y servicio, en un referente confiable para la apropiación del inglés como un segundo idioma.
+
+----
+
+Background: white
+
+----
+
+Link: 

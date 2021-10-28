@@ -1,0 +1,30 @@
+title: Cover with right text
+
+fields:
+  heading: 
+    type: textarea
+    label: Heading
+  text:
+    type: textarea
+    label: Text
+  button1:
+    type: text
+    label: Button 1 text
+    width: 1/2
+  link1:
+    type: text
+    label: Button 1 link
+    width: 1/2
+  button2:
+    type: text
+    label: Button 2 text
+    width: 1/2
+  link2:
+    type: text
+    label: Button 2 link
+    width: 1/2
+  photo: 
+    type: files
+    max: 1
+    label: Image
+    layout: cards

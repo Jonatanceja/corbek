@@ -1,0 +1,9 @@
+title: Default File
+
+fields:
+  alt:
+    label: Heading
+    type: text
+  desc:
+    label: Description  
+    type: textarea

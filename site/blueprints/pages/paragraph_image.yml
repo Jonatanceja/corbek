@@ -1,0 +1,20 @@
+title: Paragraph and image
+
+fields:
+  heading: 
+    type: text
+    label: Title
+  text:
+    type: textarea
+    label: Text
+  imageRight: 
+    type: files
+    max: 1
+    label: Image
+    layout: cards
+  background:
+    type: select
+    label: Background color
+    options:
+      white: White
+      bone-light: Beige

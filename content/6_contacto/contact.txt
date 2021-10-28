@@ -1,0 +1,170 @@
+Title: Contacto
+
+----
+
+Titulo: Escríbenos, nos interesa
+
+----
+
+Texto: Da el primer paso para aprender inglés, estamos aquí para ayudarte. Comunícate con nosotros para cualquier pregunta que puedas tener sobre  cursos o admisiones, y nos esforzaremos por responder tus dudas.
+
+----
+
+Mymap: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14937.106878749326!2d-103.3163979!3d20.6175746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb849e6376b2c08e1!2sCorbek%20English!5e0!3m2!1ses-419!2smx!4v1623108255338!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: 
+
+----
+
+Fb-form-class: 
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: nombre
+  field_class: ""
+  req: 'false'
+  field_label: Nombre
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1623107080337_3281
+- 
+  field_name: correo
+  field_class: ""
+  req: 'false'
+  field_label: Correo
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1623107089460_3281
+- 
+  field_name: telefono
+  field_class: ""
+  req: 'false'
+  field_label: Teléfono
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_tel
+  _uid: fb_tel_1623107097358_3281
+- 
+  field_name: mensaje
+  field_class: ""
+  req: 'false'
+  field_label: Mensaje
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  rows: null
+  _key: fb_textarea
+  _uid: fb_textarea_1623107120679_3281
+
+----
+
+Fb-submit-label: Enviar
+
+----
+
+Fb-cancel-label: 
+
+----
+
+Fb-formbtns-class: 
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: true
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: !Mensaje enviado con éxito!
+
+----
+
+Fb-error-msg: Error al enviar el mensaje, intentelo de nuevo.
+
+----
+
+Fb-send-email: false
+
+----
+
+Fb-email-recipient: 
+
+----
+
+Fb-email-sender-type: false
+
+----
+
+Fb-email-sender: 
+
+----
+
+Fb-email-sender-field: 
+
+----
+
+Fb-email-subject: 
+
+----
+
+Fb-save-submissions: true
+
+----
+
+Fb-key-field: correo
+
+----
+
+Fb-received-submissions: 

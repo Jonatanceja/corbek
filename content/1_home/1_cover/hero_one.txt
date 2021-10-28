@@ -1,0 +1,35 @@
+Title: Cover
+
+----
+
+Heading: Estudia y certificate con **Corbek**
+
+----
+
+Text: ¡Aprende inglés de una manera totalmente diferente!
+
+----
+
+Button1: Inscribirse
+
+----
+
+Link1: /cursos
+
+----
+
+Button2: Conocenos
+
+----
+
+Link2: /nosotros
+
+----
+
+Imagecover:
+
+- student.png
+
+----
+
+Image: - student.png
